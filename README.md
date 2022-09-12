@@ -10,4 +10,8 @@ Api maps yang digunakan
 
 ## Hasil Praktikum
 
-<img src="images/praktikum.png" width=400>
+<img src="images/praktikum.png">
+
+## Hasil Tugas
+
+<img src="images/tugas.png">
